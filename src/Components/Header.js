@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
   return (
     <>
 <header>
-<div className="container header-container">
+<div className="container header-container new-class">
 <div className="row row-1">
 
         <div className=" col-2 header header-left">
